@@ -1,4 +1,4 @@
-# Hi there, I'm Lucas Segurola! 👋
+# Hi there, I'm Lucas! 👋
 
 Experienced Java Developer | Backend Development | Reactive Systems
 
